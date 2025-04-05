@@ -1,5 +1,5 @@
 import React from 'react'
-import Stripe from './stripe'
+import Stripe from './Stripe'
 
 function Stripes() {
 

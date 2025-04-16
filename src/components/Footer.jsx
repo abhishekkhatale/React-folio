@@ -36,7 +36,7 @@ const Footer = () => {
     {
       icon: <FaFilePdf className="text-xl" />,
       name: "Resume",
-      url: "https://drive.google.com/file/d/1OHXeS7R74qqi-yYFoi8lypscOAWJ0lfy/view?usp=sharing",
+      url: "https://drive.google.com/file/d/1fWRYSUAuBKbuHMv5WOs5ngFmOM3qkL0r/view?usp=sharing",
       label: "Download my resume"
     }
   ];
